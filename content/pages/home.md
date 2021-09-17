@@ -1,6 +1,6 @@
 ---
 blocks:
-  - tagline: ''
+  - tagline: Some stuff
     headline: Welcome to the Secret Sam.
     text: >
       This project is set up to show you the basics of working with Tina. You're
