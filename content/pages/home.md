@@ -1,7 +1,7 @@
 ---
 blocks:
-  - tagline: Some stuff
-    headline: Welcome to the Secret Sam CMS.
+  - tagline: Some stuff for Pez
+    headline: Welcome to the Secret Gina CMS.
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
